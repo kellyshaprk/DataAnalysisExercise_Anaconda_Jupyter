@@ -3,7 +3,7 @@ import tweepy
 # 발급 완료된 key 입력
 CONSUMER_KEY = '{}'
 CONSUMER_SECRET = '{}'
-ACCESS_TOKEN_KEY = '{-'
+ACCESS_TOKEN_KEY = '{}'
 ACCESS_TOKEN_SECRET = '{}'
 
 
